@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKTS-E2", "AKTS-E2\AKTS-E2.csproj", "{BDA7361B-B9CC-4A13-8953-305444CA25EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA7361B-B9CC-4A13-8953-305444CA25EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA7361B-B9CC-4A13-8953-305444CA25EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA7361B-B9CC-4A13-8953-305444CA25EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA7361B-B9CC-4A13-8953-305444CA25EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E95F87C-E83B-44CA-86D0-A79F97C2BF14}
+	EndGlobalSection
+EndGlobal
